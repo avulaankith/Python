@@ -9,3 +9,6 @@ This is a socket programming file written using python. We use socket library to
 
 ## iplt20-dream11
 This folder contains the dataset and notebook. We predict the toss based on the dataset and given match conditions.
+
+## Django 
+This folder contains some Django Projects.

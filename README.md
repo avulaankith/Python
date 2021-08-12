@@ -19,3 +19,6 @@ This folder contains the dataset and notebook. We predict the toss based on the 
 
 ### airline
 ### firstone
+
+## Streamlit
+This folder contains all the streamlit app which also has the dataset. 

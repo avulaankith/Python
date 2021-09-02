@@ -10,13 +10,5 @@ This is a socket programming file written using python. We use socket library to
 ### substring.py
 This is program to find the number of occurances of a substring in a given string.
 
-## Jupyter Notebooks
-Titanic Dataset Notebook.
-
-## Django Projects
-
-### airline
-### firstone
-
 ## Streamlit
 This folder contains all the streamlit app which also has the dataset. 

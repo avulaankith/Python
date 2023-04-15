@@ -5,7 +5,7 @@ Consider the length as the number of edges in the path, not the number of nodes.
 If there is no path between A and B, then return -1.
 '''
 
-# performing level order travel by bfs to store node and distance and finally return distance.
+# performing level order travel by bfs to store node and distance and finally return distance. 
 from collections import defaultdict, deque
 
 def shortest_path(edges, node_A, node_B):
